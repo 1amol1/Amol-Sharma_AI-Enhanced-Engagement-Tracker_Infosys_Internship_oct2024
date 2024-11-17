@@ -368,7 +368,7 @@ The program exits when the 'q' key is pressed, ensuring that the final data is s
 
 ![Screenshot 2024-11-17 054103](https://github.com/user-attachments/assets/37f18506-bd97-450d-8c78-bb0cb47634a2)
 
-<!-- ![Screenshot 2024-11-13 182336](https://github.com/user-attachments/assets/45034df8-9044-4850-b471-ba579c1a942a) -->
+![Screenshot 2024-11-17 061841](https://github.com/user-attachments/assets/d738f77d-5b96-45bd-bc2e-467336c05bab)
 
 #### I) `Avg_atten_score`
 This program captures video from a webcam, performs face recognition to identify a specific individual, calculates attentiveness based on head pose, and logs the data into an Excel file every 30 seconds. Here’s a summary of its main functions:
@@ -390,6 +390,6 @@ At the end of the session, the output includes an Excel file containing the logg
 
 ![Screenshot 2024-11-17 054103](https://github.com/user-attachments/assets/37f18506-bd97-450d-8c78-bb0cb47634a2)
 
-<!-- ![Screenshot 2024-11-13 183057](https://github.com/user-attachments/assets/ad3ba39e-0b64-42f7-836a-2e0f3cacc442) -->
+![Screenshot 2024-11-17 061841](https://github.com/user-attachments/assets/d738f77d-5b96-45bd-bc2e-467336c05bab)
 
 
