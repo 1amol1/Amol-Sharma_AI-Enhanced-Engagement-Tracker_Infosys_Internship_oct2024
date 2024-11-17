@@ -1,5 +1,4 @@
 # Amol-Sharma_AI-Enhanced-Engagement-Tracker_Infosys_Internship_oct2024
-# Amol-Sharma_AI-Enhanced-Engagement-Tracker_Infosys_Internship_oct2024
 
 # AI Enhanced Engagement Tracker 🕵️
 
