@@ -453,14 +453,12 @@ Bounding box with the label "Not Recognized".
 Audio Output:
 The system announces: "Match not found".
 
-- **🤖 Applications**
-- 
+- **🤖 Applications** 
 Authentication Systems: Secure access by verifying identities.
 Personal Projects: A fun project to recognize friends or family members.
 Learning Purpose: Explore face recognition and text-to-speech integration.
 
 - **🧩 Future Enhancements**
-- 
 Add support for recognizing multiple known individuals.
 Implement a database to dynamically add or remove known faces.
 Optimize performance for low-end devices.
