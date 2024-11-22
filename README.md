@@ -393,9 +393,9 @@ At the end of the session, the output includes an Excel file containing the logg
 ![Screenshot 2024-11-17 061841](https://github.com/user-attachments/assets/d738f77d-5b96-45bd-bc2e-467336c05bab)
 
 
+                                      ----------------------------------------------------------------------
 
-
-- **🏆 Extra Work:**
+- ***🏆 Extra Work:***
 *Going Beyond the Classroom*
 - **Real-Time Face Recognition with Speech Notification**
 - *📜 Overview*
@@ -453,12 +453,14 @@ Bounding box with the label "Not Recognized".
 Audio Output:
 The system announces: "Match not found".
 
-- **🤖 Applications** 
+- **🤖 Applications**
+ 
 Authentication Systems: Secure access by verifying identities.
 Personal Projects: A fun project to recognize friends or family members.
 Learning Purpose: Explore face recognition and text-to-speech integration.
 
 - **🧩 Future Enhancements**
+ 
 Add support for recognizing multiple known individuals.
 Implement a database to dynamically add or remove known faces.
 Optimize performance for low-end devices.
