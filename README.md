@@ -466,5 +466,4 @@ The system announces: "Match not found".
 - **🧩 Future Enhancements**
  
 - Add support for recognizing multiple known individuals.
-- Implement a database to dynamically add or remove known faces.
 - Optimize performance for low-end devices.
