@@ -449,12 +449,12 @@ Press q to stop the program and close the video feed.
 1. Recognized Face:
 Visual Output:
 Bounding box with the label "Amol Sharma".
-Audio Output:
+- Audio Output:
 The system announces: "Amol Sharma".
 2. Unrecognized Face:
 Visual Output:
 Bounding box with the label "Not Recognized".
-Audio Output:
+- Audio Output:
 The system announces: "Match not found".
 
 - **🤖 Applications**
