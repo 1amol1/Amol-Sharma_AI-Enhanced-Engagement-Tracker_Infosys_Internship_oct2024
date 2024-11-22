@@ -392,4 +392,67 @@ At the end of the session, the output includes an Excel file containing the logg
 
 ![Screenshot 2024-11-17 061841](https://github.com/user-attachments/assets/d738f77d-5b96-45bd-bc2e-467336c05bab)
 
+🏆 Extra Work: Going Beyond the Classroom
+Real-Time Face Recognition with Speech Notification
+📜 Overview
+This system leverages cutting-edge face recognition technology to identify individuals in real-time using live video input. By comparing live video frames to a preloaded known face, the program can accurately determine if the person is recognized. It also provides real-time visual feedback and audio notifications to enhance user interaction.
+Apart from the requirements of my coursework, I undertook this project as a personal challenge to push the boundaries of what I’ve learned and apply my skills creatively in the field of computer vision and artificial intelligence.This extra work reflects my dedication to innovation and my passion for developing practical, real-world solutions using AI and machine learning. Below are the enhancements and additional efforts I incorporated:
 
+🎯 Enhanced Features:
+
+Implemented real-time audio notifications using pyttsx3 for recognized and unrecognized individuals, enriching user interaction.
+Optimized face detection and recognition by integrating confidence thresholds to improve accuracy.
+Designed an intuitive visual feedback system with dynamic bounding boxes and labels for identified and unidentified faces.
+Real-Time Interaction:
+
+The program is equipped with a text-to-speech engine, making it more engaging and accessible.
+Achieved seamless handling of live video streams while maintaining responsiveness.
+Improved User Experience:
+
+Added a graceful exit mechanism with a single key press (q), ensuring all resources are released properly.
+Fine-tuned the logic to avoid repetitive announcements for smoother operation.
+Personalized Application:
+
+Adapted the system to recognize specific individuals and log attendance or attentiveness as required.
+
+🛠️ Setup Instructions
+Prerequisites:
+Install Python 3.7 or higher.
+Install the required libraries:
+bash
+Copy code
+pip install opencv-python face-recognition pyttsx3
+Running the Program:
+Place the known image (img.jpeg) in the project directory.
+Run the program:
+bash
+Copy code
+python face_recognition_with_speech.py
+Allow camera access when prompted.
+Press q to stop the program and close the video feed.
+
+- **Input:**
+
+![amol](https://github.com/user-attachments/assets/568c0a1b-39fb-42a8-9723-2a12fd5e8cba)
+
+🖼️ Example Outputs
+1. Recognized Face:
+Visual Output:
+Bounding box with the label "Amol Sharma".
+Audio Output:
+The system announces: "Amol Sharma".
+2. Unrecognized Face:
+Visual Output:
+Bounding box with the label "Not Recognized".
+Audio Output:
+The system announces: "Match not found".
+
+🤖 Applications
+Authentication Systems: Secure access by verifying identities.
+Personal Projects: A fun project to recognize friends or family members.
+Learning Purpose: Explore face recognition and text-to-speech integration.
+
+🧩 Future Enhancements
+Add support for recognizing multiple known individuals.
+Implement a database to dynamically add or remove known faces.
+Optimize performance for low-end devices.
