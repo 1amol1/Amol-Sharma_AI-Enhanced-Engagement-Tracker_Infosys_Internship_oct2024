@@ -1,7 +1,7 @@
 import cv2 as cv
 import face_recognition
 
-# Load the known image of Guru Teja
+# Load the known image 
 known_image = face_recognition.load_image_file("img.jpeg")
 known_faces = face_recognition.face_encodings(known_image, num_jitters=50, model='large')[0]
 
